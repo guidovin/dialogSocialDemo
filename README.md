@@ -1,3 +1,7 @@
+# Cloning Caveat: 
+must include --recursive option while cloning repo, otherwise submodule folders are empty:
+git clone https://github.com/guidovin/dialogSocialDemo.git --recursive
+
 # Execution intructions:
 
 cd challenge_backend && npm install && npm start;

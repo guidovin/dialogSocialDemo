@@ -1,4 +1,3 @@
-# Dialog Social Demo
 # Execution intructions:
 
 cd challenge_backend && npm install && npm start;

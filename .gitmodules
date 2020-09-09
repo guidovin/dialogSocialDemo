@@ -1,0 +1,6 @@
+[submodule "challenge_backend"]
+	path = challenge_backend
+	url = https://github.com/guidovin/socialDemo.git
+[submodule "challenge_frontend"]
+	path = challenge_frontend
+	url = https://github.com/guidovin/socialDemoFront.git
